@@ -1,4 +1,3 @@
-/*
 #include <omp.h>
 #include <iostream>
 #include <cstdlib>
@@ -82,4 +81,3 @@ void main()
 
 	system("pause");
 }
-*/
